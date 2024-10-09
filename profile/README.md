@@ -54,4 +54,4 @@ If you're interested in working with us or have any inquiries, feel free to reac
 
 Happy coding! 💻
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=abbas-fabtechsol)]
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=abbas-fabtechsol)](https://github.com/abbas-fabtechsol/github-contribution-stats/)
