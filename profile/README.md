@@ -56,4 +56,4 @@ Happy coding! 💻
 
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=abbas-fabtechsol&show_icons=true&theme=radical)
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=abbas-fabtechsol)](https://github.com/LordDashMe/github-contribution-stats/)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=abbas-fabtechsol)](https://github.com/abbas-fabtechsol/github-contribution-stats/)
