@@ -44,11 +44,11 @@ Found a bug or have a feature request? Open an issue in the corresponding reposi
 
 Stay in touch and follow our journey:
 
-- **Website**: [fabuloustechnologysolutions.com](https://www.fabuloustechnologysolutions.com)
+- **Website**: [fabtechsol.com](https://www.fabtechsol.com)
 - **LinkedIn**: [Fabulous Technology Solutions](https://www.linkedin.com/company/fabuloustechnologysolutions)
 - **Twitter**: [@fabuloustechsol](https://twitter.com/fabuloustechsol)
 
-If you're interested in working with us or have any inquiries, feel free to reach out at [info@fabuloustechnologysolutions.com](mailto:info@fabuloustechnologysolutions.com).
+If you're interested in working with us or have any inquiries, feel free to reach out at [info@fabtechsol.com](mailto:info@fabtechsol.com).
 
 ---
 
