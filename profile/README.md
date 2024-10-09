@@ -55,3 +55,5 @@ If you're interested in working with us or have any inquiries, feel free to reac
 Happy coding! 💻
 
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=abbas-fabtechsol&show_icons=true&theme=radical)
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=abbas-fabtechsol)](https://github.com/LordDashMe/github-contribution-stats/)
