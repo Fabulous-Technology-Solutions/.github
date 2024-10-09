@@ -54,4 +54,4 @@ If you're interested in working with us or have any inquiries, feel free to reac
 
 Happy coding! 💻
 
-![GitHub Contribution Chart](https://github-readme-stats.vercel.app/api?username=Fabulous-Technology-Solutions&show_icons=true&include_all_commits=true)
+![GitHub Contribution Chart](https://github-readme-stats.vercel.app/api?username=abbas-fabtechsol&show_icons=true&include_all_commits=true)
